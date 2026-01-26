@@ -1,0 +1,8 @@
+Generated: 2026-01-26T16:43:22
+Iterations: 1000
+Pass threshold (max): 50 us
+Min: 30 us
+Max: 45 us
+Mean: 37.69 us
+Std: 4.57 us
+RESULT: PASS 
