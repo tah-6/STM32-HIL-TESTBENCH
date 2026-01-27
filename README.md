@@ -1,0 +1,1 @@
+Embedded firmware latency is difficult to characterize early in development without physical hardware. Developers need a repeatable host-side testing framework to measure command latency, detect regressions, and validate robustness of device communication.
